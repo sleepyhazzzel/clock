@@ -1,8 +1,11 @@
-## Clock
+## Neumorphism Clock
 - Background-color: `#def`
 - Light Ball color: `#42abff`, `#6bc33c`, `#ff6296`, `#ffeb3b`
 - Inward text is made by css style --> background-clip
 
+![](https://github.com/sleepyhazzzel/clock/blob/main/clock-10.gif)
+
+### Background-clip
 ```css
 .time>p {
     display: inline;
