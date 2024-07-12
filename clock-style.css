@@ -131,7 +131,6 @@ body {
     justify-content: center;
     align-items: flex-end;
     padding-left: 1.5vw;
-    /* background-color: burlywood; */
 }
 
 .date>p {
@@ -151,7 +150,6 @@ body {
     justify-content: center;
     align-items: top;
     padding-left: 3vw;
-    /* background-color: bisque; */
 }
 
 .time>p {
